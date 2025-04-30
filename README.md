@@ -12,6 +12,9 @@
 <br />
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, меня зовут Роман!
+
+<br />
+
 Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
 <br />
