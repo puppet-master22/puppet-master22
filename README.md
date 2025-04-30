@@ -6,7 +6,7 @@
   <img align="left" alt="Abhishek's Telegram" width="22px" src="file:///C:/Users/Roman/Downloads/free-icon-telegram-2111646.png" />
 </a>
 <a href="https://www.instagram.com/screamlsilence">
-  <img align="left" alt="Instagram" width="22px" src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-gtiw-p-insta-logotip-png-18.png" />
+  <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
 </a>
 
 <br />
