@@ -1,4 +1,4 @@
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Привет-привет! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4OWNzYjVzanU0MDVzdW5veG5jNDlqenVzZ2FpaG9ib2g4ZjBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLHLlHU5gOMsE/giphy.gif" width="25px">
 <a href="https://vk.com/official_silence_page">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -11,7 +11,7 @@
 
 <br />
 
-Привет, меня зовут Роман!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, меня зовут Роман!
 Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
 <br />
