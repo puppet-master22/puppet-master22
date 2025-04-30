@@ -1,6 +1,9 @@
 ### Привет-привет! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4OWNzYjVzanU0MDVzdW5veG5jNDlqenVzZ2FpaG9ib2g4ZjBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLHLlHU5gOMsE/giphy.gif" width="25px">
 <br />
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, меня зовут Роман!
+
+<br />
+
 <a href="https://vk.com/official_silence_page">
   <img align="left" alt="VKontakte" width="22px" src="https://img.icons8.com/?size=100&id=114452&format=png&color=000000" />
 </a>
