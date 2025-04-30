@@ -16,7 +16,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://avatars.dzeninfra.ru/get-zen_doc/4612968/pub_60670558b207860379c080fa_606706284e1bd509491c40ab/orig" width="800" height="280" />
+<img align="right" alt="GIF" src="https://avatars.dzeninfra.ru/get-zen_doc/4612968/pub_60670558b207860379c080fa_606706284e1bd509491c40ab/orig" width="600" height="280" />
   
 **Languages and Tools:**  
 
