@@ -1,6 +1,6 @@
-### Привет-привет! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4OWNzYjVzanU0MDVzdW5veG5jNDlqenVzZ2FpaG9ib2g4ZjBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLHLlHU5gOMsE/giphy.gif" width="25px">
+### Привет! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4OWNzYjVzanU0MDVzdW5veG5jNDlqenVzZ2FpaG9ib2g4ZjBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLHLlHU5gOMsE/giphy.gif" width="25px">
 <br />
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Привет, меня зовут Роман!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Меня зовут Роман!
 
 <br />
 
@@ -13,8 +13,13 @@
 <a href="https://www.instagram.com/screamlsilence">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
 </a>
-Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+
 <br />
+
+Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
+
+<br />
+
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDU5c2J4ODczb3Vjc202NXFyMXhlaXBrcGJnZzJrang4bGZ0cjQzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/Qs5iiOe5k91Nr7NAq2/giphy.gif" width="400" height="280" />
   
 **Languages and Tools:**  
