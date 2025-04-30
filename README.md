@@ -1,9 +1,9 @@
 ### Привет-привет! <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDF4OWNzYjVzanU0MDVzdW5veG5jNDlqenVzZ2FpaG9ib2g4ZjBpdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RLHLlHU5gOMsE/giphy.gif" width="25px">
 <a href="https://vk.com/official_silence_page">
-  <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
+  <img align="left" alt="VKontakte" width="22px" src="https://img.icons8.com/?size=100&id=114452&format=png&color=000000" />
 </a>
 <a href="https://t.me/puppet_master22">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="file:///C:/Users/Roman/Downloads/free-icon-telegram-2111646.png" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" />
 </a>
 <a href="https://www.instagram.com/screamlsilence">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
