@@ -16,7 +16,7 @@
 
 Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xFaOujGmCFHoI/giphy.gif?cid=ecf05e47rhq1jmreffbin7mfcadqgebd07uhao4536m6038w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="200" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xFaOujGmCFHoI/giphy.gif?cid=ecf05e47rhq1jmreffbin7mfcadqgebd07uhao4536m6038w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="600" height="400" />
   
 **Languages and Tools:**  
 
