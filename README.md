@@ -3,7 +3,7 @@
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
 <a href="https://t.me/puppet_master22">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="file:///C:/Users/Roman/Downloads/free-icon-telegram-2111646.png" />
 </a>
 <a href="https://www.instagram.com/screamlsilence">
   <img align="left" alt="Instagram" width="22px" src="https://png.klev.club/uploads/posts/2024-04/thumbs/png-klev-club-gtiw-p-insta-logotip-png-18.png" />
