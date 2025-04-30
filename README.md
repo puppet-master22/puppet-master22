@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/screamlsilence">
   <img align="left" alt="Instagram" width="22px" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" />
 </a>
-
+<br />
 <br />
 
 Сейчас учусь на ИТ-специалиста. Изучаю Git и ещё несколько интересных технологий.
